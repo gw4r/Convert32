@@ -1,5 +1,5 @@
 /*
- * 32bit_conversion.c
+ * Convert32.c
  * 
  * Copyright 2014 Ricky
  * 
